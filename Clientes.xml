@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clientes>
+<Cliente><Nome>Berttony</Nome><Identidade></Identidade><CPF></CPF><Telefone></Telefone><Email></Email></Cliente>
+<Cliente><Nome>Camila</Nome><Identidade></Identidade><CPF></CPF><Telefone></Telefone><Email></Email><Endereco><Itens CEP="34536030"><Logradouro>Rua Professor Caetano Azeredo Coutinho</Logradouro><Numero></Numero><Complemento></Complemento><Bairro>Villa Real</Bairro><Cidade>Sabara</Cidade><Estado>MG</Estado><Pais></Pais></Itens></Endereco></Cliente>
+</Clientes>
